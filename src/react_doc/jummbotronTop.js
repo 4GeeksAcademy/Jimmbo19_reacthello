@@ -5,7 +5,7 @@ const JumTop = () => {
     return(
         <>
         <div className="container">
-        <div className="d-flex flex-column align-items-start p-5 mb-4 text-muted  bg-body-tertiary border border-dashed rounded-5">
+        <div className="d-flex flex-column align-items-start p-5 mb-4 mt-4 text-muted  bg-body-tertiary border border-dashed rounded-5">
   
   <h1 className="text-dark">A Warm Welcome</h1>
     <p className="col-lg-6  mb-4 text-start">

@@ -5,7 +5,7 @@ const Card = () =>{
 
     return(
         <>
-       <div className="card" >
+       <div className="card">
       <img src="https://www.bohemes.cz/wp-content/uploads/2015/05/msn-work-50.jpg" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Card title</h5>

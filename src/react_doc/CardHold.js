@@ -5,7 +5,7 @@ import Card from "./Card";
 const CardHold = () => {
     return(
         <>
-        <div className="container">
+        <div className="container mb-4">
             <div className="row   rounded-5">
   <div className="col">
     <Card></Card>

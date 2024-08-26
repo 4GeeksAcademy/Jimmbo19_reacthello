@@ -5,6 +5,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 import NAV from "../../react_doc/nav_react";
 import JumTop from "../../react_doc/jummbotronTop";
 import CardHold from "../../react_doc/CardHold";
+import Botton from "../../react_doc/Botton";
 //create your first component
 const Home = () => {
 	return (
@@ -12,6 +13,8 @@ const Home = () => {
 			<NAV></NAV>
 			<JumTop></JumTop>
 			<CardHold></CardHold>
+			
+			<Botton></Botton>
 		</div>
 	);
 };
